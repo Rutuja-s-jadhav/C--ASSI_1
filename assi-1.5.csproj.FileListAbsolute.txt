@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\bin\Debug\assi-1.5.exe.config
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\bin\Debug\assi-1.5.exe
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\bin\Debug\assi-1.5.pdb
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\obj\Debug\assi-1.5.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\obj\Debug\assi-1.5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\obj\Debug\assi-1.5.exe
+C:\Users\HP\source\repos\assi-1.5\assi-1.5\obj\Debug\assi-1.5.pdb
